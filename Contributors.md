@@ -4197,6 +4197,7 @@ Disguy
 - [Syed Kawish Qayyum](https://github.com/kawishqayyum)
 - [Akhilnand C](https://github.com/Frost2799)
 - [ajtroyer](https://github.com/ajtroyer)
+- [George Rauta](https://github.com/GeorgeR227)
 - [Josh Young](https://github.com/SunYangcheng)
 - [Vaibhavi Deo](https://github.com/alteregoprofile)
 - [Reo Uehara](https://github.com/uh-zz)
